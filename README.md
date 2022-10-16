@@ -25,7 +25,7 @@
 
 <br/>
 
-**Send an HTTP GET request to '/hello' endpoint using any of the two methods**
+**Send an HTTP GET request to '/api/hello' endpoint using any of the two methods**
 
 - **Browser or REST client**
   <br/>```http://localhost:8080/api/hello```
